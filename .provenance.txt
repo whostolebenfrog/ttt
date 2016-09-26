@@ -1,0 +1,12 @@
+
+
+Parameter values (passed in on template invocation):
+project_name='ttt'
+artifact_id='myartifact'
+group_id='mygroup'
+version='0.0.1-SNAPSHOT'
+description='My new project'
+root_package='com.myorg'
+service_class_name='MyService'
+
+Computed parameter values (computed based on parameter values passed in):

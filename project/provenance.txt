@@ -1,0 +1,12 @@
+Template info:
+
+Group: atomist-project-templates
+Name: rest-service
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: atomist-project-templates
+Repo: rest-service
+Branch: master
+Path (within repo): 
+sha: b412bf0c25ebd1f1737853353ac049d2a9a9fc21
